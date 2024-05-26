@@ -1,4 +1,4 @@
-# Data-classification-of-Korean-extremist-websites
+# kmhas_korean_hate_speech
 
 ## 💾 Data Info
 - Number Of Train-Data : 78977
